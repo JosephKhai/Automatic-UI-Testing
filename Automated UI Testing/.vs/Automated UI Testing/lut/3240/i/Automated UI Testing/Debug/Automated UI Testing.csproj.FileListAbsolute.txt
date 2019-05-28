@@ -1,0 +1,77 @@
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Automated UI Testing.exe.config
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Automated UI Testing.exe
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Automated UI Testing.pdb
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\cs\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\de\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\es\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\fr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\it\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\ja\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\ko\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\pl\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\pt-BR\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\ru\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\tr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csprojAssemblyReference.cache
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\MainWindow.g.cs
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\App.g.cs
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing_MarkupCompile.cache
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing_MarkupCompile.lref
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\MainWindow.baml
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.g.resources
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated_UI_Testing.Properties.Resources.resources
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csproj.GenerateResource.cache
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csproj.CoreCompileInputs.cache
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csproj.CopyComplete
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.exe
+D:\GitHub\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.pdb
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing.exe.config
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing.exe
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing.pdb
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\cs\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\de\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\es\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\fr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\it\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\ja\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\ko\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\pl\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\pt-BR\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\ru\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\tr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\zh-Hans\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\zh-Hant\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csprojAssemblyReference.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\MainWindow.g.cs
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\App.g.cs
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing_MarkupCompile.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing_MarkupCompile.lref
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\MainWindow.baml
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.g.resources
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated_UI_Testing.Properties.Resources.resources
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csproj.GenerateResource.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csproj.CoreCompileInputs.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.csproj.CopyComplete
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.exe
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\Automated UI Testing\Debug\Automated UI Testing.pdb
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Automated UI Testing.exe.config
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Automated UI Testing.exe
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Automated UI Testing.pdb
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\cs\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\de\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\es\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\fr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\it\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\ja\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\ko\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\pl\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\pt-BR\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\ru\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\tr\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\Automated UI Testing\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.resources.dll

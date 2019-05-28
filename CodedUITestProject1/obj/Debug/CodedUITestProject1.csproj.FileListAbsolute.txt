@@ -1,0 +1,6 @@
+D:\GitHub\Automatic UI Testing Task\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+D:\GitHub\Automatic UI Testing Task\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+D:\GitHub\Automatic UI Testing Task\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojAssemblyReference.cache
+D:\GitHub\Automatic UI Testing Task\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
+D:\GitHub\Automatic UI Testing Task\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+D:\GitHub\Automatic UI Testing Task\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb

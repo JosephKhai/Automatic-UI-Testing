@@ -1,0 +1,30 @@
+D:\GitHub\Automated UI Testing\bin\Debug\Automated UI Testing.exe.config
+D:\GitHub\Automated UI Testing\bin\Debug\Automated UI Testing.exe
+D:\GitHub\Automated UI Testing\bin\Debug\Automated UI Testing.pdb
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing.csprojAssemblyReference.cache
+D:\GitHub\Automated UI Testing\obj\Debug\MainWindow.g.cs
+D:\GitHub\Automated UI Testing\obj\Debug\App.g.cs
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing_MarkupCompile.cache
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing_MarkupCompile.lref
+D:\GitHub\Automated UI Testing\obj\Debug\MainWindow.baml
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing.g.resources
+D:\GitHub\Automated UI Testing\obj\Debug\Automated_UI_Testing.Properties.Resources.resources
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing.csproj.GenerateResource.cache
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing.csproj.CoreCompileInputs.cache
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing.exe
+D:\GitHub\Automated UI Testing\obj\Debug\Automated UI Testing.pdb
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\bin\Debug\Automated UI Testing.exe.config
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\bin\Debug\Automated UI Testing.exe
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\bin\Debug\Automated UI Testing.pdb
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing.csprojAssemblyReference.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\MainWindow.g.cs
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\App.g.cs
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing_MarkupCompile.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing_MarkupCompile.lref
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\MainWindow.baml
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing.g.resources
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated_UI_Testing.Properties.Resources.resources
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing.csproj.GenerateResource.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing.csproj.CoreCompileInputs.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing.exe
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\obj\Debug\Automated UI Testing.pdb

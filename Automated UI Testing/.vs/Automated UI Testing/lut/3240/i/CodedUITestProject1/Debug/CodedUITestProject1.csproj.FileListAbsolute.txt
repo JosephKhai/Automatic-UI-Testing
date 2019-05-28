@@ -1,0 +1,4 @@
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\b\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\CodedUITestProject1\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\CodedUITestProject1\Debug\CodedUITestProject1.csproj.CopyComplete
+D:\GitHub\Automatic UI Testing Task\Automated UI Testing\.vs\Automated UI Testing\lut\0\i\CodedUITestProject1\Debug\CodedUITestProject1.dll
